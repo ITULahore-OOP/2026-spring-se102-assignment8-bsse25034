@@ -16,7 +16,7 @@ void TeachingAssistant :: setWorkingHours(int wH){
 
 //display function
 void TeachingAssistant :: displayRole() {
-    cout<<"\nRole: Teaching Assistant"<<endl;
+    cout<<"Role: Teaching Assistant"<<endl;
 
 }
 //grade Assignnment Function
